@@ -1,6 +1,6 @@
 Detail This is a simple UserSchema Backend File which is based on Nodejs, Expressjs and Mongodb.
 
-Simply do, npm install
+Simply do, npm i
 
 Run File npm run dev
 
